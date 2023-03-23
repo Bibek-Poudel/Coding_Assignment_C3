@@ -1,4 +1,6 @@
-# README
+#
+
+This is a coding assignment submission for the Data Mining class
 
 ## Major Code Dependencies:
 	Scikit-learn
